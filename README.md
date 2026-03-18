@@ -1,6 +1,6 @@
 # Free Temp Mail
 
-![Free Temp Mail Banner](preview.png)
+![Free Temp Mail Banner](Screenshot.png)
 
 **Free Temp Mail** is a modern, lightweight, and easy-to-use temporary email service. It allows users to generate disposable email addresses instantly, check their inbox in real-time, and copy or delete emails with a single click. Perfect for signing up for websites, testing forms, or protecting your personal email from spam.
 
