@@ -1644,7 +1644,7 @@ html {
 
 /* optional icon effect */
 .info-box::before {
-    content: "💡";
+    
     position: absolute;
     top: 14px;
     left: -10px;
