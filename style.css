@@ -1386,6 +1386,7 @@ html {
 
 .blog-container {
     margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 /* Blog Intro */
@@ -1399,6 +1400,11 @@ html {
     margin-bottom: 15px;
 }
 
+.blog-intro h2 {
+    font-size: 22px;
+    color: var(--primary-color);
+}
+
 .blog-intro p {
     color: var(--text-secondary);
     max-width: 700px;
@@ -1408,8 +1414,9 @@ html {
 /* Blog Grid */
 .blog-list {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 20px;
+    padding: 0 10px;
 }
 
 /* Blog Card */
@@ -1430,7 +1437,6 @@ html {
 .blog-card h2 {
     font-size: 18px;
     margin-bottom: 10px;
-    text-align: left;
 }
 
 /* Blog Links */
@@ -1441,6 +1447,7 @@ html {
 
 .blog-card a:hover {
     color: var(--primary-color);
+    text-decoration: underline;
 }
 
 /* Blog Description */
@@ -1450,7 +1457,7 @@ html {
     line-height: 1.6;
 }
 
-/* CTA */
+/* Blog CTA */
 .blog-cta {
     margin-top: 40px;
     text-align: center;
