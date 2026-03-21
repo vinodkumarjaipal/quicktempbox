@@ -356,6 +356,8 @@ h2 {
     white-space: pre-wrap;
     word-break: break-word;
     margin-bottom: var(--spacing-md);
+    color: var(--primary-color);
+    text-decoration: underline;
 }
 
 .message-controls {
