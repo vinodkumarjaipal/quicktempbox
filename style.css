@@ -1482,3 +1482,149 @@ html {
     background-color: #00c4a7; /* slightly darker shade */
     transform: translateY(-2px);
 }
+/* ===== BLOG1 PREMIUM ARTICLE STYLE ===== */
+
+.blog-post-container {
+    max-width: 900px;
+    margin: 90px auto 50px;
+    padding: 20px;
+}
+
+/* Article Box */
+.blog-post {
+    background: linear-gradient(145deg, #0f0f0f, #1a1a1a);
+    padding: 35px;
+    border-radius: 14px;
+    border: 1px solid #222;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.6);
+}
+
+/* Title */
+.blog-post h1 {
+    font-size: 34px;
+    margin-bottom: 20px;
+    color: #00e5be;
+    text-align: center;
+    line-height: 1.3;
+}
+
+/* Section Headings */
+.blog-post h2 {
+    font-size: 24px;
+    margin-top: 35px;
+    margin-bottom: 12px;
+    color: #00e5be;
+    border-left: 4px solid #00e5be;
+    padding-left: 10px;
+}
+
+.blog-post h3 {
+    font-size: 20px;
+    margin-top: 25px;
+    color: #fff;
+}
+
+/* Paragraphs */
+.blog-post p {
+    font-size: 16px;
+    color: #ddd;
+    margin-bottom: 18px;
+    line-height: 1.8;
+}
+
+/* Highlight strong text */
+.blog-post strong {
+    color: #00e5be;
+}
+
+/* Lists */
+.blog-post ul,
+.blog-post ol {
+    margin: 20px 0 20px 25px;
+    padding-left: 10px;
+}
+
+.blog-post li {
+    margin-bottom: 10px;
+    color: #ccc;
+}
+
+/* Links */
+.blog-post a {
+    color: #00e5be;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.blog-post a:hover {
+    text-decoration: underline;
+}
+
+/* Back Link */
+.blog-post p a {
+    display: inline-block;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+/* Divider */
+.blog-post hr {
+    border: none;
+    height: 1px;
+    background: #333;
+    margin: 30px 0;
+}
+
+/* Info Box (optional use in content) */
+.blog-post .info-box {
+    background: rgba(0, 229, 190, 0.1);
+    border-left: 4px solid #00e5be;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+/* Quote Style */
+.blog-post blockquote {
+    border-left: 4px solid #00e5be;
+    padding-left: 15px;
+    color: #aaa;
+    font-style: italic;
+    margin: 20px 0;
+}
+
+/* CTA Button inside article */
+.blog-post .cta-button {
+    display: inline-block;
+    margin-top: 25px;
+    background: #00e5be;
+    color: #000;
+    padding: 12px 22px;
+    border-radius: 8px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: 0.3s ease;
+}
+
+.blog-post .cta-button:hover {
+    background: #00c9a7;
+}
+
+/* ===== MOBILE OPTIMIZATION ===== */
+@media (max-width: 768px) {
+    .blog-post {
+        padding: 20px;
+    }
+
+    .blog-post h1 {
+        font-size: 24px;
+    }
+
+    .blog-post h2 {
+        font-size: 20px;
+    }
+
+    .blog-post p {
+        font-size: 14px;
+    }
+}
