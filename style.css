@@ -1628,3 +1628,30 @@ html {
         font-size: 14px;
     }
 }
+
+.info-box {
+    background: linear-gradient(135deg, rgba(0, 229, 190, 0.1), rgba(0, 229, 190, 0.05));
+    border-left: 4px solid #00e5be;
+    padding: 16px 18px;
+    margin: 25px 0;
+    border-radius: 8px;
+    font-size: 15px;
+    line-height: 1.6;
+    color: #e6fef9;
+    position: relative;
+    box-shadow: 0 4px 12px rgba(0, 229, 190, 0.15);
+}
+
+/* optional icon effect */
+.info-box::before {
+    content: "💡";
+    position: absolute;
+    top: 14px;
+    left: -10px;
+    background: #00e5be;
+    color: #000;
+    font-size: 14px;
+    padding: 6px;
+    border-radius: 50%;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
