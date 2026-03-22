@@ -1,22 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-<url>
-<loc>https://free-temp-mail.netlify.app/</loc>
-<priority>1.0</priority>
-</url>
+    <!-- Main Page -->
+    <url>
+        <loc>https://free-temp-mail.netlify.app/</loc>
+        <priority>1.0</priority>
+    </url>
 
-<url>
-<loc>https://free-temp-mail.netlify.app/temp-mail-for-instagram.html</loc>
-<priority>0.8</priority>
-</url>
+    <!-- Blog Main Page -->
+    <url>
+        <loc>https://free-temp-mail.netlify.app/blog.html</loc>
+        <priority>0.9</priority>
+    </url>
 
-<url>
-<loc>https://free-temp-mail.netlify.app/temp-mail-for-facebook.html</loc>
-<priority>0.8</priority>
-</url>
-  <url>
-  <loc>https://free-temp-mail.netlify.app/blog-instagram-temp-mail.html</loc>
-</url>
+    <!-- Blog Posts -->
+    <url>
+        <loc>https://free-temp-mail.netlify.app/blog1.html</loc>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://free-temp-mail.netlify.app/blog2.html</loc>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://free-temp-mail.netlify.app/blog3.html</loc>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://free-temp-mail.netlify.app/blog4.html</loc>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://free-temp-mail.netlify.app/blog5.html</loc>
+        <priority>0.8</priority>
+    </url>
 
 </urlset>
