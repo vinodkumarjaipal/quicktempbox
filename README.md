@@ -1,8 +1,8 @@
-# Free Temp Mail
+# quicktempbox
 
-![Free Temp Mail Banner](Screenshot.png)
+![quicktempbox Banner](Screenshot.png)
 
-**Free Temp Mail** is a modern, lightweight, and easy-to-use temporary email service. It allows users to generate disposable email addresses instantly, check their inbox in real-time, and copy or delete emails with a single click. Perfect for signing up for websites, testing forms, or protecting your personal email from spam.
+**quicktempbox** is a modern, lightweight, and easy-to-use temporary email service. It allows users to generate disposable email addresses instantly, check their inbox in real-time, and copy or delete emails with a single click. Perfect for signing up for websites, testing forms, or protecting your personal email from spam.
 
 ---
 
@@ -23,7 +23,7 @@
 
 Check out the live site deployed on **Netlify**:
 
-[Free Temp Mail Live](https://quicktempbox.netlify.app/)  
+[quicktempbox Live](https://quicktempbox.netlify.app/)  
 
 
 
@@ -68,7 +68,7 @@ This project is designed and maintained by Vinod, focusing on lightweight web to
 
 🔗 Related Links
 
-Free Temp Mail GitHub: https://github.com/vinodkumarjaipal/quicktempbox
+quicktempbox GitHub: https://github.com/vinodkumarjaipal/quicktempbox
 
 Vinod Kumar Jaipal GitHub: https://github.com/vinodkumarjaipal
 
