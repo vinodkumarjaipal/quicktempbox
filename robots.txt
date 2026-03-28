@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://quicktempbox.netlify.app/sitemap.xml
